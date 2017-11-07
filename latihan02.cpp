@@ -7,4 +7,11 @@ int main () {
 	double p,L,a,t,l;
 	cout << "Pilih bidang : ";
 	cin >> bidang;
+	 if (bidang == 'P' || bidang == 'p') {
+	 	
+	 	cout << "Masukkan panjangnya : ";
+	 	cin >> l;
+		cout << "Masukkan lebarnya   : ";
+	 	cin >> p;
+}
 }
