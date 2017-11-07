@@ -26,5 +26,7 @@ int main () {
 	 	cout <<"Luas segitiga : "<< L<<endl;
 	 	
 	 }
+ else {
+	 	cout << "Maaf, Kesalahan dalam menentukan bidang";
+	 }
 }
-
