@@ -16,4 +16,11 @@ int main () {
 	 	L = p*l;
 	 	cout <<"Luas persegi panjang : "<< L<<endl;	 	
 }
+ else if (bidang == 'S' || bidang == 's') {
+	 	
+	 	cout << "Masukkan alasnya   : ";
+	 	cin >> a;
+		cout << "Masukkan tingginya : ";
+	 	cin >> t;
+}
 }
