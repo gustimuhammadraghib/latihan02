@@ -13,5 +13,7 @@ int main () {
 	 	cin >> l;
 		cout << "Masukkan lebarnya   : ";
 	 	cin >> p;
+	 	L = p*l;
+	 	cout <<"Luas persegi panjang : "<< L<<endl;	 	
 }
 }
